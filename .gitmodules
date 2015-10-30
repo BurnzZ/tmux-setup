@@ -1,0 +1,6 @@
+[submodule "plugins/tmux"]
+	path = plugins/tmux
+	url = https://github.com/tmux-plugins/tpm
+[submodule "plugins/tmux-prefix-highlight"]
+	path = plugins/tmux-prefix-highlight
+	url = https://github.com/tmux-plugins/tmux-prefix-highlight.git
