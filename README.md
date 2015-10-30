@@ -11,7 +11,7 @@ These people inspired almost all of my dotfiles:
 # Installation
 
 ```sh
-git clone https://github.com/BurnzZ/tmux-setup.git ~/.vim
+git clone https://github.com/BurnzZ/tmux-setup.git ~/.tmux
 ln -fs ~/.tmux/.tmux.conf ~/.tmux.conf
 
 cd ~/.tmux
