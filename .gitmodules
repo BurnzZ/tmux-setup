@@ -4,3 +4,6 @@
 [submodule "plugins/tpm"]
 	path = plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
+[submodule "plugins/tmux-online-status"]
+	path = plugins/tmux-online-status
+	url = https://github.com/tmux-plugins/tmux-online-status.git
