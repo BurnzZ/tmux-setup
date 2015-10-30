@@ -20,3 +20,7 @@ git submodule update --init
 
 You can update all plugins using:
 `git submodule foreach git pull origin master`
+
+#Notes:
+
+Make sure you are using `tmux 1.9` or higher.
