@@ -1,6 +1,8 @@
 # Created by https://www.gitignore.io/api/vim,osx
 
 *.swp
+logs
+logs/*
 extra   # extra dotfile I don't want synced
 
 ### Vim ###
