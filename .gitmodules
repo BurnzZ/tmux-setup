@@ -10,6 +10,3 @@
 [submodule "plugins/tmux-net-speed"]
 	path = plugins/tmux-net-speed
 	url = https://github.com/tmux-plugins/tmux-net-speed.git
-[submodule "plugins/tmux-logging"]
-	path = plugins/tmux-logging
-	url = https://github.com/tmux-plugins/tmux-logging.git
