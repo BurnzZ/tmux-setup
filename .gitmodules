@@ -7,6 +7,3 @@
 [submodule "plugins/tmux-online-status"]
 	path = plugins/tmux-online-status
 	url = https://github.com/tmux-plugins/tmux-online-status.git
-[submodule "plugins/tmux-net-speed"]
-	path = plugins/tmux-net-speed
-	url = https://github.com/tmux-plugins/tmux-net-speed.git
