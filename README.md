@@ -21,6 +21,14 @@ git submodule update --init
 You can update all plugins using:
 `git submodule foreach git pull origin master`
 
-#Notes:
+# Plugins
+
+Currently, here are the plugins currently installed:
+
+* [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+* [Tmux Prefix Highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
+* [Tmux Online Status](https://github.com/tmux-plugins/tmux-online-status)
+
+# Notes
 
 Make sure you are using `tmux 1.9` or higher.
