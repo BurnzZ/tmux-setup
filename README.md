@@ -31,4 +31,4 @@ Currently, here are the plugins currently installed:
 
 # Notes
 
-Make sure you are using `tmux 1.9` or higher.
+Make sure you are using `tmux 2.7` or higher.
