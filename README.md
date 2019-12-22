@@ -25,4 +25,4 @@ Currently, here are the plugins currently installed:
 
 # Notes
 
-Make sure you are using `tmux 2.7` or higher.
+Make sure you are using `tmux 3.0` or higher.
